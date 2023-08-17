@@ -28,7 +28,9 @@ The **goal** of this project is to gain a clear understanding of my income and e
 
 ## Data Sourcing:
 
-After defining my problem statement , I obtained the data by downloading the csv file from my bank Mobile app and imported it into Power BI. I cleaned the data, and then performed my analysis and created visualizations to help answer my questions.
+After defining my problem statement , I obtained the data by downloading the csv file from my bank Mobile app and imported it into Power BI. 
+Data was pulled from December 2021 to August 2023.
+I cleaned the data, and then performed my analysis and created visualizations to help answer my questions.
 
 ## Data transformation/Cleaning:
 
