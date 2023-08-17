@@ -42,7 +42,7 @@ Some of the applied steps include:
 
 3. Split Description Column By Delimiter in Oder To Create The Reason Column.
 ![](cleaned_data.png)
-The highlighted Colounm is the Newly Created Colounm. You can look through the applied steps as well.
+The highlighted Column is the Newly Created Column. You can look through the applied steps as well.
 
 4. Added Two Measures to show the Total Credit and Total Debit
 
