@@ -48,6 +48,7 @@ The highlighted Colounm is the Newly Created Colounm. You can look through the a
 
 Total Credit
 ![](MEASURE_1.png)
+
 Total Debit
 ![](MEASURE_2.png)
 
