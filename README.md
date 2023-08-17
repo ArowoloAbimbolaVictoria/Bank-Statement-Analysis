@@ -7,7 +7,7 @@
 
 This is a Power BI project that shows analysis from the data gotten from my **Student** bank account.
 
-The reason for this project is to track my spending and identify areas where i can cut costs and to also help me keep an eye on my budget and make sure I’m staying within financial limits.
+The reason for this project is to track my spending and identify areas where i can cut costs and to also help me keep an eye on my budget to make sure I’m staying within financial limits.
 
 The **goal** of this project is to gain a clear understanding of my income and expenses.
 
