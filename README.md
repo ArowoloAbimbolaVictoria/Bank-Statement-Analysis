@@ -14,11 +14,11 @@ The **goal** of this project is to gain a clear understanding of my income and e
 ## Skills demonstrated for the project:
 
 - Data Cleaning,
--  Data Visualization,
--  Quick Measure,
--  Filters, Tooltips,
--   Critical Thinking,
--   Problem Solving.
+- Data Visualization,
+- Quick Measure,
+- Filters, Tooltips,
+- Critical Thinking,
+- Problem Solving.
 
 ## Problem statement:
 
@@ -57,9 +57,10 @@ No Modeling was required since I need just a table for the analysis.
 
 ## Analysis and Visualization:
 
-I chose to create simple and easy-to-understand visuals. To reflect the branding of my bank, I used their colors of red, white, and gold. These colors are also bold and eye-catching, which helps to make the visuals more memorable.I wanted to ensure that the visualization would be easily understood by anyone who viewed it, regardless of their level of expertise.
+I chose to create simple and easy-to-understand visuals. To reflect the branding of my bank, I used their colors of red, white, and gold. These colors are also bold and eye-catching, which helps to make the visuals more memorable.
+I wanted to ensure that the visualization would be easily understood by anyone who viewed it, regardless of their level of expertise.
 
-I created a number of visuals to show the income, expenses, and top. reasons for debit and. added filters to the dashboard so that the user can customize the data.
+I created a number of visuals to show the income, expenses, and top reasons for debit and added filters to the dashboard so that the user can customize the data.
 
 ### The Dashboard comprises of these visuals:
 
