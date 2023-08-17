@@ -107,17 +107,18 @@ Expenditures on the phone constitute 18.97% of my total expenses. The ‘phone�
 
 ### You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiYTNlZDNkMzMtMWUyYS00ZGQ5LWEyMDMtZGMxNjllNTA3ZDc2IiwidCI6IjBmMzMzYzc0LTM2NzEtNGJkMy1hZjA1LTczNjc1OWI5ODkzZCJ9)
 
-## Conclusion and Reccomendation:
+## Conclusion and Recommendation:
 
 1. I realized that my expenses are greater than my income monthly, and I need to adjust my spending habits to bring them into balance.
    
-2. I realized that I spend more money on food. I enjoy dining out and socializing, which contributes to my high food expenses. While I value these experiences, I need to consider whether there are areas where I can reduce my spending while still enjoying these activities.
+2. I realized that I spend more money on food.
+ I enjoy dining out and socializing, which contributes to my high food expenses. While I value these experiences, I need to consider whether there are areas where I can reduce my spending while still enjoying these activities.
    
-3. I noticed that the month of June was a particularly busy and lucrative month,as it had the highest value for income and expense and I’m interested in identifying what made it so successful so I can replicate those conditions in the future.
+4. I noticed that the month of June was a particularly busy and lucrative month,as it had the highest value for income and expense and I’m interested in identifying what made it so successful so I can replicate those conditions in the future.
    
-4. I noticed that when I receive money, I tend to spend it immediately.
+5. I noticed that when I receive money, I tend to spend it immediately.
    
-5. I want to work on budgeting and tracking my expenses so I can make informed decisions about my spending. I also want to create a savings plan so I can have a financial cushion for unexpected expenses. This will help me stay on track and achieve my financial goals.
+6. I want to work on budgeting and tracking my expenses so I can make informed decisions about my spending. I also want to create a savings plan so I can have a financial cushion for unexpected expenses. This will help me stay on track and achieve my financial goals.
 
 ![](THANKS.jpg)
 #### Thanks for following through.
